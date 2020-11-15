@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ec63383-dd0b-4336-9b07-40730f9a0144" name="Default Changelist" comment="" />
+    <list default="true" id="5ec63383-dd0b-4336-9b07-40730f9a0144" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/benchmarks/chart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/benchmarks/data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/main_test.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,10 +34,44 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/benchmarks" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/benchmarks" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add sample Fib function and benchmark" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add sample Fib function and benchmark" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="97" width="912" height="893" key="CommitChangelistDialog2" timestamp="1605431552278">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="499" y="97" width="912" height="893" key="CommitChangelistDialog2/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1605431552278" />
+    <state x="788" y="440" width="343" height="207" key="Github.ShareDialog" timestamp="1605431428593">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="788" y="440" width="343" height="207" key="Github.ShareDialog/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1605431428593" />
+    <state x="752" y="227" width="405" height="633" key="Github.UntrackedFilesDialog" timestamp="1605431442210">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="752" y="227" width="405" height="633" key="Github.UntrackedFilesDialog/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1605431442210" />
+    <state x="555" y="276" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1605431557645">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="276" width="800" height="535" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1605431557645" />
+    <state x="741" y="455" width="437" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605431749021">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="741" y="455" width="437" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1605431749021" />
   </component>
 </project>
